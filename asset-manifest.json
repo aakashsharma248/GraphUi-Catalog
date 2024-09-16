@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GraphUi-Catalog/static/css/main.dc4d6ff2.css",
+    "main.js": "/GraphUi-Catalog/static/js/main.434750de.js",
+    "index.html": "/GraphUi-Catalog/index.html",
+    "main.dc4d6ff2.css.map": "/GraphUi-Catalog/static/css/main.dc4d6ff2.css.map",
+    "main.434750de.js.map": "/GraphUi-Catalog/static/js/main.434750de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.434750de.js"
+  ]
+}
